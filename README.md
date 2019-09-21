@@ -1,2 +1,2 @@
 # common-cli
-使用react与vue的cli
+适用react与vue的cli
